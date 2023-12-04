@@ -5,7 +5,9 @@ Aspiring web developer and cybersecurity expert
 Alfred is currently a computer science student at The Technical University of Mombasa and is passionate about leveraging the web to make it easy to use and secure.
 
 -🌍 I am based in Mombasa Kenya
+
 -🧠 I’m currently learning web development and cybersecurity
+
 -📩 You can reach me at kimuraalfred@gmail.com
 
 ## Skills

@@ -12,7 +12,7 @@ Alfred is currently a computer science student at The Technical University of Mo
 
 ## Skills
 
-- Web Technologies: HTML, CSS, React
+- Web Technologies: HTML💻, CSS🖌️
 - Databases: MySQL
 - Version Control: Git, GitHub
 - Tools: VS Code

@@ -17,6 +17,9 @@ Alfred is currently a computer science student at The Technical University of Mo
 - Version Control: Git, GitHub
 - Tools: VS Code
 
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimura-coder)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
 

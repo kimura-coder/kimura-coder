@@ -1,6 +1,6 @@
-Hi 👋 My name is Alfred Mwangi Kimura
+<h1>Hi 👋 My name is Alfred Mwangi Kimura</h1>
 
-Aspiring web developer and cybersecurity expert
+<h2>Aspiring web developer and cybersecurity expert</h2>
 
 Alfred is currently a computer science student at The Technical University of Mombasa and is passionate about leveraging the web by making it easy to use and secure.
 
